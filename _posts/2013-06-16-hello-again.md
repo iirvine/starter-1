@@ -8,4 +8,4 @@ title: Untitled
 
 Howdy doody.
 
-![](/media/xsYWj.jpg)
+![](/_posts/xsYWj.jpg)
